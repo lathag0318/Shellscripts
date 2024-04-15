@@ -7,4 +7,4 @@ echo "Logged in users are $USERS"
 
 UP=`date ; uptime`
 echo "Uptime is $UP"
-
+echo "This is my script"
